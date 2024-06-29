@@ -2,8 +2,6 @@
 	<img src="https://bmcdn.nl/assets/branding/logo.svg" alt="Bas Milius Logo" height="60" width="60" />
 </a>
 
----
-
 <img src="header-v3.png" alt="Meteocons"/>
 
 # Meteocons
